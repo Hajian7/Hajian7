@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Seb, a PhD student research assistant
-- 💛 I love Machine Learning and programming. I’m currently using ML for sensor data analysis
+- 💛 I love machine learning and programming. I’m currently using ML for sensor data analysis
 - 🤝 I’m looking for collaborations on ML-assissted sensor data analysis
 - 📧 My email: sajjad.hajian@wmich.edu 
