@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Seb, a PhD student research assistant
+- 👋 Hi, I’m Seb, a Data Scientist and ML researcher.
 - 💛 I love machine learning, Math, and programming. I’m currently using ML/DL for computer vision, time series, and classification problems.
 - 🤝 I’m open to collaborations 
 - 📧 My email: sajjad.hajian@wmich.edu 
