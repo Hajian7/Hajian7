@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Seb, a Data Scientist and ML researcher.
-- 💛 I love machine learning, Math, and programming. I’m currently using ML/DL for computer vision, time series, and classification problems.
+- 💛 I love machine learning, statistical modeling, and programming. I currently use ML/DL to solve time series, classification, and computer vision problems.
 - 🤝 I’m open to collaborations 
 - 📧 My email: sajjad.hajian@wmich.edu 
